@@ -115,12 +115,6 @@ This tool is provided for information gathering purposes only. Users should:
 - Not use the collected data for commercial purposes
 - Be aware that race results are preliminary until officially confirmed
 
-## Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
 ## Acknowledgments
 
 - Sowers Action Challenge organizers for hosting the event
